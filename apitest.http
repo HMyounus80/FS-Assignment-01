@@ -1,0 +1,8 @@
+
+GET http://localhost:4040/api/random?min=20&max=100
+
+
+
+
+###
+GET http://localhost:4040/api/count?str=48who$53!
